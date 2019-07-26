@@ -1,4 +1,5 @@
-function accessElementInArray = [1,2,3];
-  ];
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-console.log(1)
+chocolateBars.push = ["Lion"];
+
+functions addE
